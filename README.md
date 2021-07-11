@@ -27,3 +27,8 @@ npm run server
 ```
 ng build
 ```
+## Screenshots
+
+![screenshot 1](https://github.com/yassin801/Task-Manager/blob/main/src/assets/1.png?raw=true)
+![screenshot 2](https://github.com/yassin801/Task-Manager/blob/main/src/assets/2.png?raw=true)
+![screenshot 3](https://github.com/yassin801/Task-Manager/blob/main/src/assets/3.png?raw=true)
